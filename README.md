@@ -113,4 +113,4 @@ PORT=3000
 
 **Rejane Ferreira de Mendonça**
 
-Projeto desenvolvido para a disciplina de PWA Fullstack.
+Projeto desenvolvido para a disciplina de Mobile.
